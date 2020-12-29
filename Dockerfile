@@ -1,4 +1,4 @@
-FROM ruby:2-alpine
+FROM ruby:3-alpine
 LABEL maintainer "Vazra <ameen[at]mocioun.com>"
 
 ENV LANG "en_US.UTF-8"
